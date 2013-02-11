@@ -2,7 +2,7 @@ WITH.in
 
 Version 0.0.0.6
 
-Demo: http://jsfiddle.net/VAxVz/7/embedded/result/
+Demo: http://fiddle.jshell.net/VAxVz/7/show/light/
 
 This is a project with a small footprint, yet with large aspirations. This first proof of concept revolves around the idea of building web applications without the assumed fundamentals of traditional web programming.
 
