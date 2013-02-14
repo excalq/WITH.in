@@ -1,4 +1,4 @@
-// Payload data (served from server/API/carrier pidgeon/whatever)
+// Payload data (served from server/API/carrier pigeon/whatever)
 var application = {
     "payload": {
         "document": {
@@ -16,6 +16,7 @@ var application = {
                     },
                     "welcome": {
                         "h1": "Welcome to WITH - A Labratory for Innovative IT Projects", 
+                        "h3": "WITH Is Technology for Humans"
                         "p": "This is the WITH Project, a new approach to web programming."
                     },
                     "credits": {
@@ -24,7 +25,7 @@ var application = {
                         "uri": "http://klassica.org/with.in"
                     },
                     "about": "This is a project with a small footprint, yet with large aspirations. This first proof of concept revolves around the idea of building web applications without the assumed fundamentals of traditional web programming.",
-                    "more": "Go ahead and view the source of this page. You'll notice something unique. NO HTML! \"WTF?\", you say to yourself. Instead of HTML, a lightly structured JSON is used to create a webpage document. JSON excels at being very human-friendly. We'd like to bring usability and solutions for the \"common use-cases\" to the forefront of web development in a way that benifits anyone and everyone."
+                    "more": "Go ahead and view the source of this page. You'll notice something unique. (Almost) NO HTML! \"WTF?\", you say to yourself. Instead of HTML, a lightly structured bit of JSON is used to create this page.                     JSON excels at being a very human writable and readable format of information. I speculate that it may be a better replacement for HTML in web applications, and this is the idea I'm experiementing with. Overall, the goal of the WITH projects is to find novel ways to use technology to benifit small, decentralized communities, and improve access to web-based creativity and 
                 }
             },
             "html": null
